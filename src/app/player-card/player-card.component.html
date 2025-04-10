@@ -1,0 +1,10 @@
+<section class="card">
+    <img
+        class="card-photo"
+        [src]="player.photo"
+        alt="Photo of {{player.name}}"
+    />
+    <h2 class="card-heading">{{player.name}}</h2>
+    <p class="card-jersey">#{{player.jersey}}, Arizona Sidewinders</p>
+    <a [routerLink]="['/details', player.id]">Stats</a>
+</section>

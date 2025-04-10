@@ -1,0 +1,15 @@
+h2 {
+    padding: 10px;
+}
+th, td {
+    padding: 15px;
+    
+}
+td  {
+    text-align: left;
+}
+th {
+    border-bottom: 1px solid #ddd;
+    color:rgb(60, 61, 61);
+}
+

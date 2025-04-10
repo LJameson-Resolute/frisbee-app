@@ -1,0 +1,9 @@
+<section>
+    <form>
+        <input type="text" placeholder="Filter by name" #filter/>
+        <button class="primary" type="button" (click)="filterResults(filter.value)">Search</button>
+    </form>
+</section>
+<section class="results">
+    <app-player-card *ngFor="let player of filteredPlayerList" [player]="player"></app-player-card>
+</section>
