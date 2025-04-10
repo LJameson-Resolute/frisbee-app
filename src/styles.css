@@ -11,8 +11,8 @@ body{
 :root {
     --primary-color: rgb(5, 27, 75);
     --secondary-color: rgb(243, 165, 20);
-    --accent-color: rgb(223, 219, 210);
-    --shadow-color: gray;
+    --accent-color: rgb(207, 213, 214);
+    --shadow-color: rgb(117, 113, 113);
 }
 button.primary {
     padding: 10px;

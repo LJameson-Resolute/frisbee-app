@@ -106,7 +106,7 @@ export class PlayerService {
       logo: 'https://static.wixstatic.com/media/29d923_719ce83b05194b0da66d50e2b7a71f7b~mv2.png/v1/fill/w_146,h_146,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Sidewinders%20Logo%20-%20Final-High%20Res-transparent-06%20(1).png'
     },
     {
-      id: 52,
+      id: 54,
       name: 'Erin Prucha',
       jersey: '9',
       pointsPlayed: '0',
